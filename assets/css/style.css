@@ -365,5 +365,10 @@ header.main-header {
 .section-title h1 {
     margin-bottom: 10px;
     color: #212121;
-    font-weight: 700;
+    font-weight: 800;
+    font-size: 25px;
+}
+.learning-box:hover {
+    border-color: #FF2D0D;
+    transition: all .3s ease;
 }
